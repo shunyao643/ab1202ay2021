@@ -21,7 +21,7 @@ To load the package, run the following code before you begin calling functions f
 library(ab1202ay2021)
 ```
 
-To assist the user in making use of the package, they may choose to access this document with `browseVignettes("ab1202ay2021")` or alternatively, access the documentation for each of the functions by adding a ? prefix, e.g. `?key_stats`.
+To assist the user in making use of the package, they may choose to access the documentation for each of the functions by adding a ? prefix, e.g. `?key_stats`.
 
 
 
