@@ -1,0 +1,20 @@
+Package: ab1202ay2021
+Type: Package
+Title: Basic Statistic Tool for AB1202
+Version: 0.1.0
+Authors@R: person("Bai", "Shun Yao", email = "shunyao643@gmail.com", role = c("aut", "cre"))
+Description: A set of commands for the AB1202 student to utilise in quizzes. 
+    Based on my personal experience taking this module in AY20/21 Sem 1, these
+    are the functions for purely computational questions from the quiz.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+URL: https://github.com/shunyao643/ab1202ay2021
+BugReports: https://github.com/shunyao643/ab1202ay2021/issues

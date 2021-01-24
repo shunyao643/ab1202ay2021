@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "IQR", "pnorm", "pt", "qnorm", "qt", "sd", "var",
+             "weighted.mean")
