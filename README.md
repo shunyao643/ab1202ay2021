@@ -1,4 +1,4 @@
-
+# AB1202 Stats Package
 
 This package aims to assist students taking level 1000 Introduction to Statistics courses by adding in handy functions for the beginner to R.
 
