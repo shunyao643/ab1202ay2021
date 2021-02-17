@@ -8,7 +8,7 @@ While no R knowledge is expected, the user should note that this vignette and th
 
 ### Setup
 
-Setup should be easy. First, install the package by running two lines to code, one after the other.
+Setup should be easy. First, install the package by running two lines of code in R, one after the other.
 
 ```r
 install.packages("devtools")
