@@ -52,7 +52,7 @@ A situation where this may be preferred is for the following situation:
 
 | Number of cards in the average wallet | Frequency |
 |:-----|---------|
-|    1 |    10   |
+|    2 |    10   |
 |    3 |    10   |
 |    4 |    20   |
 
